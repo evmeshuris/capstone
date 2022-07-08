@@ -7,3 +7,4 @@ Friday, 07.08.22
 10:30 searching for the pictures for the html webpage
 11:00 looking at css styles for the htmp webpage
 11:30 continue research into api calls
+1:30 created an account to see what data I can get from API
