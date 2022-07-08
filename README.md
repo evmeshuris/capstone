@@ -6,3 +6,4 @@ Friday, 07.08.22
 10:00 found API https://v2.api.whisker.iothings.site/users/' + self._user_id + '/robots'
 10:30 searching for the pictures for the html webpage
 11:00 looking at css styles for the htmp webpage
+11:30 continue research into api calls
