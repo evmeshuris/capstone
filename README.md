@@ -8,3 +8,4 @@ Friday, 07.08.22
 11:00 looking at css styles for the htmp webpage
 11:30 continue research into api calls
 1:30 created an account to see what data I can get from API
+2:30 I think I have an idea for my capstone project. I have two cats and Litter-Robot toilet for them. I can call an API to see how many times the litter was used; if the litter is full; status. I will try right the function to do cleaning the litter
