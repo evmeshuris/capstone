@@ -10,3 +10,6 @@ Friday, 07.08.22
 1:30 created an account to see what data I can get from API
 2:30 I think I have an idea for my capstone project. I have two cats and Litter-Robot toilet for them. I can call an API to see how many times the litter was used; if the litter is full; status. I will try right the function to do cleaning the litter
 3:30 reading more about callbacks to be able to run the litter for cycle
+
+
+https://docs.google.com/document/d/1Nib8R-P1h6R2XV6hJmPLGWstYSP43CtxG1iBe8UddfA/edit?usp=sharing
