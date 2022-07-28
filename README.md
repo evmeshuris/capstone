@@ -12,4 +12,3 @@ Friday, 07.08.22
 3:30 reading more about callbacks to be able to run the litter for cycle
 
 
-https://docs.google.com/document/d/1Nib8R-P1h6R2XV6hJmPLGWstYSP43CtxG1iBe8UddfA/edit?usp=sharing
