@@ -1,7 +1,11 @@
-Name of Student: Evgeniya Meshuris
-Name of Project: Poop station
-Project's Purpose or Goal: Get information about Litter Robot
-List the absolute minimum features the project requires to meet this purpose or goal:
+Name of Student: Evgeniya Meshuris  
+
+Name of Project: Poop station  
+
+Project's Purpose or Goal: Get information about Litter Robot  
+
+List the absolute minimum features the project requires to meet this purpose or goal:  
+
 _Get information from Litter Robot: status, time used_
 _Function that can Cycle Litter Robot_
 _Display information on a webpage for the user_
